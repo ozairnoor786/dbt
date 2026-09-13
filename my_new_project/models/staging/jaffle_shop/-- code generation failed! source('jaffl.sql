@@ -1,0 +1,1 @@
+{{ source('jaffle_shop', 'customers') }}
